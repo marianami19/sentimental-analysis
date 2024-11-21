@@ -9,6 +9,7 @@ customer materials such as reviews and survey responses,
 online and social media, and healthcare materials for
 applications that range from marketing to customer service
 to clinical medicine.
+![image](https://github.com/user-attachments/assets/2ac65830-c2ac-47a9-8506-fe469ceec9c0)
 
 
 This project demonstrates sentiment analysis on textual data, focusing on web-scraped news headlines. It preprocesses the data, applies sentiment analysis using Azure AI Text Analytics, and evaluates the results.
